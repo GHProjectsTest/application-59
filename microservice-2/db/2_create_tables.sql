@@ -7,7 +7,6 @@
 -- Table structure for table songs.
 --
 CREATE TABLE commedit.songs (
-  artist VARCHAR(255) ,
   title VARCHAR(255) ,
 CONSTRAINT title_PK PRIMARY KEY (title)
  
